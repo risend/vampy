@@ -13,8 +13,7 @@ Example: !emo shock
 
 Emoji | Keyword
 ------------ | -------------
-
-!(/images/altair.png) | altair
+![Altair](/images/altair.png)| altair
 !(/images/arigatou.png) | arigatou
 !(/images/ashes.png) | ashes
 
