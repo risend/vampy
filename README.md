@@ -17,6 +17,7 @@ Example: !emo shock
 ### Official
 Emoji | Keyword
 ------------ | -------------
+
 ![altair](https://risend.github.io/gbfint-vampy/images/altair.png)| altair
 ![arigatou](https://risend.github.io/gbfint-vampy/images/arigatou.png)| arigatou
 ![ashes](https://risend.github.io/gbfint-vampy/images/ashes.png)| ashes
@@ -34,24 +35,6 @@ Emoji | Keyword
 ![cold](https://risend.github.io/gbfint-vampy/images/cold.png)| cold
 ![confuse](https://risend.github.io/gbfint-vampy/images/confuse.png)| confuse
 ![cool](https://risend.github.io/gbfint-vampy/images/cool.png)| cool
-
-### Aoshi's works
-Emoji | Keyword
------------- | -------------
-![bingo](https://risend.github.io/gbfint-vampy/images/bingo.png)| bingo
-![christmas](https://risend.github.io/gbfint-vampy/images/christmas.png)| christmas
-![claris2](https://risend.github.io/gbfint-vampy/images/claris2.png)| claris2
-![confuseray](https://risend.github.io/gbfint-vampy/images/confuseray.png)| confuseray
-![congrats](https://risend.github.io/gbfint-vampy/images/congrats.png)| congrats
-![coop](https://risend.github.io/gbfint-vampy/images/coop.png)| coop
-
-### Other Fanartists' works
-Emoji | Keyword
------------- | -------------
-![claris](https://risend.github.io/gbfint-vampy/images/claris.png)| claris
-![blush](https://risend.github.io/gbfint-vampy/images/blush.png)| blush
-![bow2](https://risend.github.io/gbfint-vampy/images/bow2.png)| bow2
-![attack](https://risend.github.io/gbfint-vampy/images/attack.png)| attack
 ![creep](https://risend.github.io/gbfint-vampy/images/creep.png)| creep
 ![cry](https://risend.github.io/gbfint-vampy/images/cry.png)| cry
 ![despair](https://risend.github.io/gbfint-vampy/images/despair.png)| despair
@@ -62,18 +45,40 @@ Emoji | Keyword
 ![embarass](https://risend.github.io/gbfint-vampy/images/embarass.png)| embarass
 ![esser](https://risend.github.io/gbfint-vampy/images/esser.png)| esser
 ![fail](https://risend.github.io/gbfint-vampy/images/fail.png)| fail
-![ferry](https://risend.github.io/gbfint-vampy/images/ferry.png)| ferry
 ![fish](https://risend.github.io/gbfint-vampy/images/fish.png)| fish
 ![flirt](https://risend.github.io/gbfint-vampy/images/flirt.png)| flirt
 ![focus](https://risend.github.io/gbfint-vampy/images/focus.png)| focus
 ![frolic](https://risend.github.io/gbfint-vampy/images/frolic.png)| frolic
 ![full](https://risend.github.io/gbfint-vampy/images/full.png)| full
-![funfu](https://risend.github.io/gbfint-vampy/images/funfu.png)| funfu
 ![ganbare](https://risend.github.io/gbfint-vampy/images/ganbare.png)| ganbare
 ![go](https://risend.github.io/gbfint-vampy/images/go.png)| go
 ![goahead](https://risend.github.io/gbfint-vampy/images/goahead.png)| goahead
 ![gong](https://risend.github.io/gbfint-vampy/images/gong.png)| gong
 ![goodjob](https://risend.github.io/gbfint-vampy/images/goodjob.png)| goodjob
+
+### Aoshi's works
+
+Emoji | Keyword
+------------ | -------------
+![bingo](https://risend.github.io/gbfint-vampy/images/bingo.png)| bingo
+![christmas](https://risend.github.io/gbfint-vampy/images/christmas.png)| christmas
+![claris2](https://risend.github.io/gbfint-vampy/images/claris2.png)| claris2
+![confuseray](https://risend.github.io/gbfint-vampy/images/confuseray.png)| confuseray
+![congrats](https://risend.github.io/gbfint-vampy/images/congrats.png)| congrats
+![coop](https://risend.github.io/gbfint-vampy/images/coop.png)| coop
+![ferry](https://risend.github.io/gbfint-vampy/images/ferry.png)| ferry
+
+### Other Fanartists' works
+
+Emoji | Keyword
+------------ | -------------
+![claris](https://risend.github.io/gbfint-vampy/images/claris.png)| claris
+![blush](https://risend.github.io/gbfint-vampy/images/blush.png)| blush
+![bow2](https://risend.github.io/gbfint-vampy/images/bow2.png)| bow2
+![attack](https://risend.github.io/gbfint-vampy/images/attack.png)| attack
+
+
+![funfu](https://risend.github.io/gbfint-vampy/images/funfu.png)| funfu
 ![goodmorning](https://risend.github.io/gbfint-vampy/images/goodmorning.png)| goodmorning
 ![goodnight](https://risend.github.io/gbfint-vampy/images/goodnight.png)| goodnight
 ![goodwork](https://risend.github.io/gbfint-vampy/images/goodwork.png)| goodwork
