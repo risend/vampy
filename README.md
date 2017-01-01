@@ -20,38 +20,38 @@ Emoji | Keyword
 ![altair](https://risend.github.io/gbfint-vampy/images/altair.png)| altair
 ![arigatou](https://risend.github.io/gbfint-vampy/images/arigatou.png)| arigatou
 ![ashes](https://risend.github.io/gbfint-vampy/images/ashes.png)| ashes
-![attack](https://risend.github.io/gbfint-vampy/images/attack.png)| attack
 ![ball](https://risend.github.io/gbfint-vampy/images/ball.png)| ball
 ![bam](https://risend.github.io/gbfint-vampy/images/bam.png)| bam
 ![bear](https://risend.github.io/gbfint-vampy/images/bear.png)| bear
-![bingo](https://risend.github.io/gbfint-vampy/images/bingo.png)| bingo
-![blush](https://risend.github.io/gbfint-vampy/images/blush.png)| blush
 ![bow](https://risend.github.io/gbfint-vampy/images/bow.png)| bow
-![bow2](https://risend.github.io/gbfint-vampy/images/bow2.png)| bow2
 ![bully](https://risend.github.io/gbfint-vampy/images/bully.png)| bully
-
-### Aoshi's works
-Emoji | Keyword
------------- | -------------
 ![callshots](https://risend.github.io/gbfint-vampy/images/callshots.png)| callshots
 ![calmdown](https://risend.github.io/gbfint-vampy/images/calmdown.png)| calmdown
 ![canihelp](https://risend.github.io/gbfint-vampy/images/canihelp.png)| canihelp
 ![chance](https://risend.github.io/gbfint-vampy/images/chance.png)| chance
 ![cheers](https://risend.github.io/gbfint-vampy/images/cheers.png)| cheers
 ![chill](https://risend.github.io/gbfint-vampy/images/chill.png)| chill
-![christmas](https://risend.github.io/gbfint-vampy/images/christmas.png)| christmas
-![claris](https://risend.github.io/gbfint-vampy/images/claris.png)| claris
-![claris2](https://risend.github.io/gbfint-vampy/images/claris2.png)| claris2
 ![cold](https://risend.github.io/gbfint-vampy/images/cold.png)| cold
 ![confuse](https://risend.github.io/gbfint-vampy/images/confuse.png)| confuse
+![cool](https://risend.github.io/gbfint-vampy/images/cool.png)| cool
+
+### Aoshi's works
+Emoji | Keyword
+------------ | -------------
+![bingo](https://risend.github.io/gbfint-vampy/images/bingo.png)| bingo
+![christmas](https://risend.github.io/gbfint-vampy/images/christmas.png)| christmas
+![claris2](https://risend.github.io/gbfint-vampy/images/claris2.png)| claris2
 ![confuseray](https://risend.github.io/gbfint-vampy/images/confuseray.png)| confuseray
 ![congrats](https://risend.github.io/gbfint-vampy/images/congrats.png)| congrats
-![cool](https://risend.github.io/gbfint-vampy/images/cool.png)| cool
 ![coop](https://risend.github.io/gbfint-vampy/images/coop.png)| coop
 
 ### Other Fanartists' works
 Emoji | Keyword
 ------------ | -------------
+![claris](https://risend.github.io/gbfint-vampy/images/claris.png)| claris
+![blush](https://risend.github.io/gbfint-vampy/images/blush.png)| blush
+![bow2](https://risend.github.io/gbfint-vampy/images/bow2.png)| bow2
+![attack](https://risend.github.io/gbfint-vampy/images/attack.png)| attack
 ![creep](https://risend.github.io/gbfint-vampy/images/creep.png)| creep
 ![cry](https://risend.github.io/gbfint-vampy/images/cry.png)| cry
 ![despair](https://risend.github.io/gbfint-vampy/images/despair.png)| despair
