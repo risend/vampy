@@ -26,6 +26,10 @@ Emoji | Keyword
 ![bow](https://risend.github.io/gbfint-vampy/images/bow.png)| bow
 ![bow2](https://risend.github.io/gbfint-vampy/images/bow2.png)| bow2
 ![bully](https://risend.github.io/gbfint-vampy/images/bully.png)| bully
+
+### Aoshi's works
+Emoji | Keyword
+------------ | -------------
 ![callshots](https://risend.github.io/gbfint-vampy/images/callshots.png)| callshots
 ![calmdown](https://risend.github.io/gbfint-vampy/images/calmdown.png)| calmdown
 ![canihelp](https://risend.github.io/gbfint-vampy/images/canihelp.png)| canihelp
@@ -41,6 +45,10 @@ Emoji | Keyword
 ![congrats](https://risend.github.io/gbfint-vampy/images/congrats.png)| congrats
 ![cool](https://risend.github.io/gbfint-vampy/images/cool.png)| cool
 ![coop](https://risend.github.io/gbfint-vampy/images/coop.png)| coop
+
+### Other Fanartists' works
+Emoji | Keyword
+------------ | -------------
 ![creep](https://risend.github.io/gbfint-vampy/images/creep.png)| creep
 ![cry](https://risend.github.io/gbfint-vampy/images/cry.png)| cry
 ![despair](https://risend.github.io/gbfint-vampy/images/despair.png)| despair
