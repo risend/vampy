@@ -17,7 +17,6 @@ Example: !emo shock
 ### Official
 Emoji | Keyword
 ------------ | -------------
-
 ![altair](https://risend.github.io/gbfint-vampy/images/altair.png)| altair
 ![arigatou](https://risend.github.io/gbfint-vampy/images/arigatou.png)| arigatou
 ![ashes](https://risend.github.io/gbfint-vampy/images/ashes.png)| ashes
