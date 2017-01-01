@@ -13,7 +13,7 @@ Example: !emo shock
 
 Emoji | Keyword
 ------------ | -------------
-![Altair](/gbfint-vampy/images/altair.png)| altair
-![arigatou](/gbfint-vampy/images/arigatou.png) | arigatou
-![ashes](/gbfint-vampy/images/ashes.png) | ashes
+![Altair](https://risend.github.io/gbfint-vampy/images/altair.png)| altair
+![arigatou](https://risend.github.io/gbfint-vampy/images/arigatou.png) | arigatou
+![ashes](https://risend.github.io/gbfint-vampy/images/ashes.png) | ashes
 
