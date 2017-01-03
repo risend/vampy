@@ -76,3 +76,7 @@ code {
 .emoji-grid {
 	margin-bottom: 3rem;
 }
+
+.details {
+	color: rgba(255,255,255,.4);
+}
